@@ -1,4 +1,16 @@
-家教培训机构管理系统，使用 Python Tkinter 开发 GUI 界面，MySQL 存储数据。
-实现多角色（学员、教师、管理员）注册、登录功能，完成家教业务基础管理。
-A tutoring institution management system built with Python Tkinter and MySQL. 
-It provides registration and login for students, teachers and administrators, and realizes basic tutoring business management.
+# BangBang_tutoring
+家教培训机构管理系统
+## 项目简介
+本系统基于 Python Tkinter 实现桌面GUI，使用 MySQL 作为数据库，面向家教培训机构，支持学员、教师、管理员三种角色，提供注册、登录以及家教基础业务管理功能。
+## 技术栈
+- 开发语言：Python
+- GUI框架：Tkinter
+- 数据库：MySQL
+## 主要功能
+- 多用户角色：学员、教师、管理员
+- 用户注册、登录验证
+- 家教业务信息基础管理
+## 运行说明
+1. 安装 Python 环境
+2. 导入 MySQL 数据库脚本，修改代码内数据库连接配置
+3. 运行主程序 py 文件启动界面
